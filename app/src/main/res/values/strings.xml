@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Venues</string>
+    <string name="search_venues">Search venues</string>
+    <string name="location_not_available">Unable to get current location</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
